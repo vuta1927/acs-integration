@@ -1,0 +1,43 @@
+# Build context must be the repository root (docker-compose sets context: .)
+# so that both src/ (.NET) and web/ (React) are accessible.
+
+# ── Stage 1: Build React SPA ─────────────────────────────────────────────────
+FROM node:lts-alpine AS web-build
+WORKDIR /web
+# Cache npm install layer separately from source
+COPY web/package.json web/package-lock.json ./
+RUN npm ci --prefer-offline
+COPY web/ ./
+# vite.config outDir = '../src/ProWatchCctvBridge.Broker/wwwroot'
+# resolves from WORKDIR /web to /src/ProWatchCctvBridge.Broker/wwwroot
+RUN npm run build
+
+# ── Stage 2: Build .NET API ──────────────────────────────────────────────────
+FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
+WORKDIR /src
+
+# Restore (layer-cached separately from source copy)
+COPY src/ProWatchCctvBridge.Shared/ProWatchCctvBridge.Shared.csproj ProWatchCctvBridge.Shared/
+COPY src/ProWatchCctvBridge.Broker/ProWatchCctvBridge.Broker.csproj  ProWatchCctvBridge.Broker/
+RUN dotnet restore ProWatchCctvBridge.Broker/ProWatchCctvBridge.Broker.csproj
+
+# Build + publish
+COPY src/ProWatchCctvBridge.Shared/ ProWatchCctvBridge.Shared/
+COPY src/ProWatchCctvBridge.Broker/ ProWatchCctvBridge.Broker/
+RUN dotnet publish ProWatchCctvBridge.Broker/ProWatchCctvBridge.Broker.csproj \
+    -c Release -o /app/publish --no-restore
+
+# ── Stage 3: Runtime ─────────────────────────────────────────────────────────
+FROM mcr.microsoft.com/dotnet/aspnet:10.0 AS runtime
+WORKDIR /app
+COPY --from=build /app/publish .
+# React SPA served as static files — overlays the API's wwwroot
+COPY --from=web-build /src/ProWatchCctvBridge.Broker/wwwroot ./wwwroot
+
+ENV ASPNETCORE_ENVIRONMENT=Production
+
+# /data holds the SQLite database and Data Protection key ring (mount as a named volume).
+VOLUME /data
+
+EXPOSE 5180
+ENTRYPOINT ["dotnet", "ProWatchCctvBridge.Broker.dll"]

@@ -1,0 +1,691 @@
+{"ts":"2026-06-24T15:23:43.033Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:23:43.038Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Dtos/ConfigDtos.cs\""}
+{"ts":"2026-06-24T15:23:43.174Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:23:43.178Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"reminder-injected","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:23:44.316Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"http-401","dur":1140,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T15:23:46.773Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:23:46.776Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Mapping/DtoMappers.cs\""}
+{"ts":"2026-06-24T15:23:52.482Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:23:52.488Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Mapping/DtoMappers.cs\""}
+{"ts":"2026-06-24T15:23:52.611Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:23:52.613Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:23:52.635Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:00.735Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:00.736Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Mapping/DtoMappers.cs\""}
+{"ts":"2026-06-24T15:24:00.861Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:00.863Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:00.863Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:05.541Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:05.545Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/lib/types.ts\""}
+{"ts":"2026-06-24T15:24:05.670Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:05.680Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:05.682Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:08.440Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:08.443Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/lib/types.ts\""}
+{"ts":"2026-06-24T15:24:08.648Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:08.650Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:08.650Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:13.386Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:13.391Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/lib/types.ts\""}
+{"ts":"2026-06-24T15:24:13.519Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:13.522Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:13.524Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:26.164Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:26.181Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:26.185Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/components/ui/secret-input.tsx\""}
+{"ts":"2026-06-24T15:24:26.319Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:26.333Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Write","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:26.334Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Write","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:34.264Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:34.268Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/system-settings.tsx\""}
+{"ts":"2026-06-24T15:24:34.395Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:34.397Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:34.396Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:41.644Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/system-settings.tsx\""}
+{"ts":"2026-06-24T15:24:41.651Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:41.799Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:41.802Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:41.800Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:45.553Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:45.557Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/system-settings.tsx\""}
+{"ts":"2026-06-24T15:24:45.720Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:45.728Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:45.720Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:53.227Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:53.241Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/system-settings.tsx\""}
+{"ts":"2026-06-24T15:24:53.378Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:53.380Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:53.378Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:57.199Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:57.201Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/system-settings.tsx\""}
+{"ts":"2026-06-24T15:24:57.367Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:57.371Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:24:57.374Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:02.801Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:02.804Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/system-settings.tsx\""}
+{"ts":"2026-06-24T15:25:02.932Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:02.937Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:02.941Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:06.685Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:06.690Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:10.716Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:13.390Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:13.394Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:17.977Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:24.581Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:24.587Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:34.584Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:38.680Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:38.682Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":0,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:25:55.630Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:27:15.548Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"context-injected","dur":84,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:27:15.968Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-401","dur":505,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T15:27:57.515Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:27:57.520Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/docker-compose.yml\""}
+{"ts":"2026-06-24T15:28:15.154Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:28:15.160Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:28:15.163Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/docker-compose.yml\""}
+{"ts":"2026-06-24T15:28:15.290Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:28:15.292Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Write","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:28:15.291Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Write","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:32.252Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"recently-injected","dur":3,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:32.428Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-429","dur":179,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:41.305Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:41.310Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/Pro-Watch_6.0_API_Service.pdf\""}
+{"ts":"2026-06-24T15:33:49.518Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:49.531Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:49.730Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:53.505Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:53.508Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:53.791Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:57.251Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:33:57.253Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:01.154Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:01.155Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:09.428Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:14.226Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":0,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:14.244Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:15.332Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:25.765Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":0,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:25.777Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:26.305Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:29.720Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/plans/reports/_pw_pages_3-8.txt\""}
+{"ts":"2026-06-24T15:34:29.730Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:40.168Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:40.169Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:40.904Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:43.821Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:34:43.825Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/plans/reports/_pw_events_135-151.txt\""}
+{"ts":"2026-06-24T15:35:29.417Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:35:29.419Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:35:29.638Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:37:15.636Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:37:15.637Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Shared/Contracts/ProWatchHub.cs\""}
+{"ts":"2026-06-24T15:37:21.155Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:37:21.156Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:37:21.463Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:37:24.551Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:37:24.556Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Configuration/ProWatchOptions.cs\""}
+{"ts":"2026-06-24T15:37:27.623Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:37:27.625Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Shared/Events/PwStatus.cs\""}
+{"ts":"2026-06-24T15:38:22.745Z","hook":"privacy-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:38:22.748Z","hook":"scout-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:38:28.142Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:38:28.146Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Endpoints/ProWatchEndpoints.cs\""}
+{"ts":"2026-06-24T15:38:37.133Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:38:37.137Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/ProWatchCctvBridge.Broker.csproj\""}
+{"ts":"2026-06-24T15:38:37.276Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"reminder-injected","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:38:37.277Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:38:37.519Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"http-429","dur":242,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:06.415Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:06.420Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:06.424Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ProWatch/ProWatchListenerService.cs\""}
+{"ts":"2026-06-24T15:39:06.538Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Write","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:06.544Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Write","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:06.546Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:12.848Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:12.851Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:19.064Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:32.229Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:32.234Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/ProWatchCctvBridge.Broker.csproj\""}
+{"ts":"2026-06-24T15:39:32.366Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:32.368Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:32.366Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:37.185Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:37.195Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:39.875Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:55.806Z","hook":"privacy-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:39:55.807Z","hook":"scout-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:00.466Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ConfigStore.cs\""}
+{"ts":"2026-06-24T15:40:00.466Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:16.122Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ConfigStore.cs\""}
+{"ts":"2026-06-24T15:40:16.134Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:16.275Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:16.277Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:16.283Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:23.027Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:23.031Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/docker-compose.yml\""}
+{"ts":"2026-06-24T15:40:23.166Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:23.169Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:23.174Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:29.776Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:29.775Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":0,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:31.465Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:53.615Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:40:53.621Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:41:11.500Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:41:15.715Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:41:15.717Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:41:51.195Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:42:10.554Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:42:10.556Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:42:10.560Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/Vu Tran/.claude/projects/D--Projects-EIH-ACS/memory/prowatch-signalr-classic-22.md\""}
+{"ts":"2026-06-24T15:42:10.664Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Write","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:42:10.668Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:42:10.665Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Write","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:42:22.153Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:42:22.156Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/Vu Tran/.claude/projects/D--Projects-EIH-ACS/memory/MEMORY.md\""}
+{"ts":"2026-06-24T15:42:28.248Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:42:28.251Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/Vu Tran/.claude/projects/D--Projects-EIH-ACS/memory/MEMORY.md\""}
+{"ts":"2026-06-24T15:42:28.353Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:42:28.356Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:42:28.357Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:53:16.584Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"context-injected","dur":93,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:53:16.764Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-429","dur":272,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T15:53:51.998Z","hook":"privacy-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:53:52.039Z","hook":"scout-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:53:56.124Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:53:56.126Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Endpoints/MetaEndpoints.cs\""}
+{"ts":"2026-06-24T15:54:18.918Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:54:18.923Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ConfigStore.cs\""}
+{"ts":"2026-06-24T15:54:43.741Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Endpoints/SimulatorEndpoints.cs\""}
+{"ts":"2026-06-24T15:54:43.747Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:55:35.293Z","hook":"scout-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:55:35.293Z","hook":"privacy-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:55:44.574Z","hook":"privacy-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:55:44.575Z","hook":"scout-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:32.080Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Endpoints/MetaEndpoints.cs\""}
+{"ts":"2026-06-24T15:56:32.089Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:32.228Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:32.255Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:32.269Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"reminder-injected","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:39.758Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:39.761Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Endpoints/MetaEndpoints.cs\""}
+{"ts":"2026-06-24T15:56:39.897Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:39.898Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:39.899Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:58.722Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:58.724Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Endpoints/SimulatorEndpoints.cs\""}
+{"ts":"2026-06-24T15:56:58.727Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:58.844Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Write","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:58.848Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Write","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:56:58.851Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:03.860Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:03.867Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Program.cs\""}
+{"ts":"2026-06-24T15:57:09.273Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:09.277Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Program.cs\""}
+{"ts":"2026-06-24T15:57:09.424Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:09.434Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:09.435Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:13.415Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:13.420Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:17.970Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:30.459Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:30.467Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:40.070Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:44.358Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:57:44.371Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:58:00.852Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:58:20.490Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"recently-injected","dur":4,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:58:20.727Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-429","dur":233,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T15:59:12.813Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:59:12.813Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":0,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:59:17.367Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:59:25.839Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":0,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:59:25.840Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:59:29.431Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T15:59:35.029Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:59:35.030Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T15:59:35.497Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:00:34.976Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"recently-injected","dur":5,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:00:35.118Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-429","dur":148,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T16:01:46.218Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"recently-injected","dur":5,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:01:46.389Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-429","dur":177,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:22.045Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:22.050Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/components/ui/secret-input.tsx\""}
+{"ts":"2026-06-24T16:02:29.279Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:29.284Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/components/ui/secret-input.tsx\""}
+{"ts":"2026-06-24T16:02:29.414Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:29.416Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:29.417Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:36.109Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:36.113Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/components/ui/secret-input.tsx\""}
+{"ts":"2026-06-24T16:02:36.257Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:36.259Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:36.258Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:42.677Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:42.679Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/system-settings.tsx\""}
+{"ts":"2026-06-24T16:02:42.810Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:42.812Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:42.822Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:47.628Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:47.632Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/system-settings.tsx\""}
+{"ts":"2026-06-24T16:02:47.763Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:47.768Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:47.770Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:51.960Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:02:51.964Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:03:01.065Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:03:07.763Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:03:07.767Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:03:35.033Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:05:06.700Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"context-injected","dur":96,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:05:06.849Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-429","dur":246,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:31.524Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:31.527Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ProWatch/ProWatchListenerService.cs\""}
+{"ts":"2026-06-24T16:06:37.054Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:37.057Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ProWatch/ProWatchListenerService.cs\""}
+{"ts":"2026-06-24T16:06:37.199Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"reminder-injected","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:37.212Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:37.213Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:52.990Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:52.993Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ProWatch/ProWatchListenerService.cs\""}
+{"ts":"2026-06-24T16:06:53.150Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:53.153Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:53.155Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:57.396Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:57.400Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:06:59.156Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:07:04.579Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:07:04.584Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:07:30.920Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:08:12.031Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"recently-injected","dur":6,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:08:12.179Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-429","dur":155,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T16:08:58.697Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:08:58.701Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Shared/Events/PwEvent.cs\""}
+{"ts":"2026-06-24T16:09:12.208Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:09:12.208Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"allowed-command","dur":1,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:09:16.015Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:09:22.338Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:09:22.341Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:09:26.024Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:00.372Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:00.375Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ProWatch/ProWatchListenerService.cs\""}
+{"ts":"2026-06-24T16:10:00.517Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:00.523Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:00.526Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:06.197Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:06.202Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ProWatch/ProWatchListenerService.cs\""}
+{"ts":"2026-06-24T16:10:13.740Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:13.744Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ProWatch/ProWatchListenerService.cs\""}
+{"ts":"2026-06-24T16:10:13.905Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:13.906Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:13.905Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:18.077Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:18.102Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ProWatch/ProWatchListenerService.cs\""}
+{"ts":"2026-06-24T16:10:21.904Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:21.909Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ProWatch/ProWatchListenerService.cs\""}
+{"ts":"2026-06-24T16:10:30.968Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:30.971Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ProWatch/ProWatchListenerService.cs\""}
+{"ts":"2026-06-24T16:10:31.125Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:31.127Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:31.127Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:35.507Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:35.511Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:37.116Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:43.905Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:10:43.911Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:11:10.592Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:11:19.486Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:11:19.488Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"C:/Users/Vu Tran/.claude/projects/D--Projects-EIH-ACS/memory/prowatch-signalr-classic-22.md\""}
+{"ts":"2026-06-24T16:11:19.586Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:11:19.591Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:11:19.593Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:10.913Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"recently-injected","dur":8,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:11.050Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-429","dur":145,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:33.601Z","hook":"subagent-init","event":"SubagentStart","tool":"","target":"Explore","note":"context-injected","dur":98,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:36.802Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:36.822Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker\""}
+{"ts":"2026-06-24T16:23:39.304Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:39.309Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker\""}
+{"ts":"2026-06-24T16:23:39.567Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:41.674Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:41.679Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/**/*.cs\""}
+{"ts":"2026-06-24T16:23:41.892Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:41.897Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Mapping/**/*.cs\""}
+{"ts":"2026-06-24T16:23:42.339Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:42.342Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Dtos/**/*.cs\""}
+{"ts":"2026-06-24T16:23:42.353Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:42.357Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Data/**/*.cs\""}
+{"ts":"2026-06-24T16:23:44.809Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:44.812Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/EventPipeline.cs\""}
+{"ts":"2026-06-24T16:23:45.013Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:45.017Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/Mapping/EventMapper.cs\""}
+{"ts":"2026-06-24T16:23:45.243Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:45.247Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/Messaging/RabbitMqPublisher.cs\""}
+{"ts":"2026-06-24T16:23:45.438Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:45.444Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Data/Entities.cs\""}
+{"ts":"2026-06-24T16:23:45.670Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:45.672Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Dtos/EventDtos.cs\""}
+{"ts":"2026-06-24T16:23:48.245Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:48.249Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS\""}
+{"ts":"2026-06-24T16:23:48.498Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS\""}
+{"ts":"2026-06-24T16:23:48.505Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:48.636Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:48.871Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:50.955Z","hook":"privacy-block","event":"PreToolUse","tool":"Glob","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:50.959Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Shared/**/*.cs\""}
+{"ts":"2026-06-24T16:23:53.105Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:53.109Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Shared/Cctv/CctvCommand.cs\""}
+{"ts":"2026-06-24T16:23:53.311Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:53.315Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Shared/Events/PwEvent.cs\""}
+{"ts":"2026-06-24T16:23:53.741Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/Messaging/IRabbitPublisher.cs\""}
+{"ts":"2026-06-24T16:23:53.747Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:53.867Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:53.870Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/Messaging/PublishResult.cs\""}
+{"ts":"2026-06-24T16:23:56.404Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:56.409Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ConfigStore.cs\""}
+{"ts":"2026-06-24T16:23:56.860Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:23:56.865Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Data/BridgeDbContext.cs\""}
+{"ts":"2026-06-24T16:23:56.922Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Program.cs\""}
+{"ts":"2026-06-24T16:23:56.929Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:00.080Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:00.085Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Configuration\""}
+{"ts":"2026-06-24T16:24:00.291Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:00.436Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:00.452Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Mapping/DtoMappers.cs\""}
+{"ts":"2026-06-24T16:24:03.284Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Configuration/RabbitMqOptions.cs\""}
+{"ts":"2026-06-24T16:24:03.292Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:03.322Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Configuration/ProWatchOptions.cs\""}
+{"ts":"2026-06-24T16:24:03.331Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:06.629Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:06.633Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Dtos/ConfigDtos.cs\""}
+{"ts":"2026-06-24T16:24:06.952Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:06.955Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Dtos/MappingRuleDto.cs\""}
+{"ts":"2026-06-24T16:24:09.539Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:09.543Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/BridgeEvents.cs\""}
+{"ts":"2026-06-24T16:24:09.802Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:09.807Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ConnectionStatus.cs\""}
+{"ts":"2026-06-24T16:24:10.047Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:10.049Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Shared/Events/PwEventCatalog.cs\""}
+{"ts":"2026-06-24T16:24:12.858Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:24:12.867Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Dtos/StatusDtos.cs\""}
+{"ts":"2026-06-24T16:34:01.600Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"recently-injected","dur":6,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:34:02.063Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-401","dur":472,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T16:35:09.903Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"recently-injected","dur":8,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:35:10.306Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-401","dur":412,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T16:36:16.189Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:36:16.197Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:36:16.504Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:36:23.467Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:36:23.472Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/MappingRuleSeeder.cs\""}
+{"ts":"2026-06-24T16:36:28.075Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:36:28.078Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/rule-matrix.tsx\""}
+{"ts":"2026-06-24T16:38:00.952Z","hook":"privacy-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:00.954Z","hook":"scout-block","event":"PreToolUse","tool":"Grep","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:04.902Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:04.906Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Dtos/MappingRuleDto.cs\""}
+{"ts":"2026-06-24T16:38:12.188Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Dtos/MappingRuleDto.cs\""}
+{"ts":"2026-06-24T16:38:12.208Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:12.366Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:12.369Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"reminder-injected","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:12.370Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:16.279Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:16.282Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Mapping/DtoMappers.cs\""}
+{"ts":"2026-06-24T16:38:25.931Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:25.935Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Mapping/DtoMappers.cs\""}
+{"ts":"2026-06-24T16:38:26.066Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:26.078Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:26.079Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:30.269Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:30.270Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Mapping/DtoMappers.cs\""}
+{"ts":"2026-06-24T16:38:34.272Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:34.287Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Mapping/DtoMappers.cs\""}
+{"ts":"2026-06-24T16:38:39.963Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:39.967Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/Mapping/EventMapper.cs\""}
+{"ts":"2026-06-24T16:38:47.308Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:47.312Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/Mapping/EventMapper.cs\""}
+{"ts":"2026-06-24T16:38:47.445Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:47.448Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:38:47.446Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:01.543Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:01.546Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/Mapping/EventMapper.cs\""}
+{"ts":"2026-06-24T16:39:01.686Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:01.694Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:01.704Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:11.420Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:11.424Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/EventPipeline.cs\""}
+{"ts":"2026-06-24T16:39:16.810Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:16.814Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/EventPipeline.cs\""}
+{"ts":"2026-06-24T16:39:16.924Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:16.926Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:16.941Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:26.663Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:26.674Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Configuration/RabbitMqOptions.cs\""}
+{"ts":"2026-06-24T16:39:32.024Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:32.028Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Configuration/RabbitMqOptions.cs\""}
+{"ts":"2026-06-24T16:39:32.201Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:32.202Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:32.202Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:46.499Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:46.504Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/MappingRuleSeeder.cs\""}
+{"ts":"2026-06-24T16:39:46.647Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:46.650Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:46.651Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:51.990Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:39:51.995Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ConfigStore.cs\""}
+{"ts":"2026-06-24T16:40:04.287Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:04.292Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/src/ProWatchCctvBridge.Broker/Services/ConfigStore.cs\""}
+{"ts":"2026-06-24T16:40:04.430Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:04.439Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:04.440Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:10.573Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:10.577Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:15.061Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"http-401","dur":484,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:25.008Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:25.013Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/lib/types.ts\""}
+{"ts":"2026-06-24T16:40:25.149Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:25.149Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:25.150Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:31.648Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:31.652Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/rule-matrix.tsx\""}
+{"ts":"2026-06-24T16:40:31.787Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:31.790Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:31.793Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:37.039Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:37.044Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/rule-matrix.tsx\""}
+{"ts":"2026-06-24T16:40:37.159Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:37.161Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:37.162Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:41.913Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:41.917Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/rule-matrix.tsx\""}
+{"ts":"2026-06-24T16:40:42.031Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:42.032Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:42.031Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:46.830Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:46.834Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/rule-matrix.tsx\""}
+{"ts":"2026-06-24T16:40:46.952Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:46.954Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:46.956Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:56.423Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:56.429Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/system-settings.tsx\""}
+{"ts":"2026-06-24T16:40:56.546Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:56.547Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:40:56.548Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:03.129Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:03.132Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/rule-matrix.tsx\""}
+{"ts":"2026-06-24T16:41:03.319Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:03.324Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:03.328Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:07.021Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:07.025Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:11.593Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:29.170Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:29.177Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/docker-compose.yml\""}
+{"ts":"2026-06-24T16:41:29.314Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:29.318Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:29.320Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:34.349Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:41:34.353Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:42:01.041Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:44:24.109Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"context-injected","dur":94,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:44:24.172Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-429","dur":161,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T16:51:24.844Z","hook":"session-init","event":"SessionStart","tool":"","target":"","note":"resume","dur":276,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:52:09.974Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"context-injected","dur":84,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:52:10.035Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-429","dur":146,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-24T16:52:25.427Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/event-log.tsx\""}
+{"ts":"2026-06-24T16:52:25.436Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:33.840Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:33.843Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/event-log.tsx\""}
+{"ts":"2026-06-24T16:53:33.979Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:33.982Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"reminder-injected","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:33.993Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:39.571Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:39.575Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/event-log.tsx\""}
+{"ts":"2026-06-24T16:53:39.734Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:39.746Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:39.747Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:44.654Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:44.658Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/event-log.tsx\""}
+{"ts":"2026-06-24T16:53:44.786Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:44.797Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:44.798Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:52.728Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/event-log.tsx\""}
+{"ts":"2026-06-24T16:53:52.745Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:52.895Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:52.897Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:53:52.895Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:02.777Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:02.781Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/event-log.tsx\""}
+{"ts":"2026-06-24T16:54:02.906Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:02.909Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:02.909Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:11.674Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:11.679Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/event-log.tsx\""}
+{"ts":"2026-06-24T16:54:11.796Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:11.797Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:11.796Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:24.480Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:24.483Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/event-log.tsx\""}
+{"ts":"2026-06-24T16:54:24.605Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:24.607Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:24.619Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:32.749Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:32.751Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/event-log.tsx\""}
+{"ts":"2026-06-24T16:54:32.884Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:32.888Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:32.897Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:36.624Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:36.627Z","hook":"scout-block","event":"PreToolUse","tool":"","target":"","note":"","dur":0,"status":"crash","exit":0,"error":"path should be a `path.relative()`d string, but got \"D:/Projects/EIH-ACS/web/src/pages/event-log.tsx\""}
+{"ts":"2026-06-24T16:54:36.742Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:36.745Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-24T16:54:36.745Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:09:31.177Z","hook":"session-init","event":"SessionStart","tool":"","target":"","note":"startup","dur":2613,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:24.157Z","hook":"session-init","event":"SessionStart","tool":"","target":"","note":"startup","dur":712,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:25.561Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"context-injected","dur":62,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:25.983Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-401","dur":484,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:40.782Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":12,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:40.782Z","hook":"scout-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:41.722Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:41.724Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:42.921Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:46.050Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:46.052Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:47.154Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:47.156Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:50.678Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:50.679Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:50.856Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:51.358Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:51.359Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:51.525Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:55.073Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:55.071Z","hook":"scout-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:55.478Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:10:55.478Z","hook":"scout-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:01.466Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:01.468Z","hook":"scout-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:01.745Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:01.748Z","hook":"scout-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:48.768Z","hook":"scout-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:48.771Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":16,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:48.854Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:48.859Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:48.867Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":9,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:51.900Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:51.900Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:53.390Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:58.818Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:11:58.822Z","hook":"scout-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:18.153Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"recently-injected","dur":4,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:18.584Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-401","dur":435,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:39.067Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":13,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:39.066Z","hook":"scout-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:39.143Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:39.145Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:39.152Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":8,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:49.292Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:49.294Z","hook":"scout-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:49.352Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:49.353Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:16:49.357Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"tracked-edit","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:17.500Z","hook":"dev-rules-reminder","event":"UserPromptSubmit","tool":"","target":"","note":"recently-injected","dur":4,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:17.997Z","hook":"usage-context-awareness","event":"UserPromptSubmit","tool":"","target":"","note":"http-401","dur":501,"status":"warn","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:24.359Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:24.367Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:24.486Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:32.307Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:32.308Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:32.378Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:35.931Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:35.933Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:36.059Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:36.855Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:36.857Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:18:58.113Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:01.972Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:01.980Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:12.098Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:12.155Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:12.157Z","hook":"scout-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:22.255Z","hook":"privacy-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":14,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:22.256Z","hook":"scout-block","event":"PreToolUse","tool":"Read","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:22.305Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:22.307Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:22.383Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":1,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:41.064Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:41.064Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":12,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:41.156Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:41.720Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:41.721Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:44.384Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:44.385Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:19:44.452Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:01.384Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":12,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:01.384Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:01.474Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:05.443Z","hook":"descriptive-name","event":"PreToolUse","tool":"Write","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:05.444Z","hook":"scout-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:05.443Z","hook":"privacy-block","event":"PreToolUse","tool":"Write","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:05.511Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Write","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:05.519Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Write","target":"","note":"tracked-edit","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:05.511Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Write","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:09.933Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:09.936Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:10.064Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:12.604Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:12.608Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:16.372Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:31.263Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":6,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:31.264Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":14,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:31.485Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:36.341Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:36.343Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:36.456Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Bash","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:40.189Z","hook":"privacy-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":4,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:40.189Z","hook":"scout-block","event":"PreToolUse","tool":"Edit","target":"","note":"","dur":2,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:40.256Z","hook":"plan-format-kanban","event":"PostToolUse","tool":"Edit","target":"","note":"non-plan-file","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:40.265Z","hook":"post-edit-simplify-reminder","event":"PostToolUse","tool":"Edit","target":"","note":"reminder-injected","dur":7,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:40.256Z","hook":"usage-context-awareness","event":"PostToolUse","tool":"Edit","target":"","note":"throttled","dur":0,"status":"skip","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:46.559Z","hook":"privacy-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":3,"status":"ok","exit":0,"error":""}
+{"ts":"2026-06-25T06:20:46.563Z","hook":"scout-block","event":"PreToolUse","tool":"Bash","target":"","note":"","dur":5,"status":"ok","exit":0,"error":""}

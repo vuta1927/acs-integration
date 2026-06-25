@@ -1,0 +1,31 @@
+# macOS artifacts
+.DS_Store
+__MACOSX/
+
+# .NET build artifacts
+**/bin/
+**/obj/
+*.db
+*.db-shm
+*.db-wal
+bridge.db*
+
+# Node / React
+web/node_modules/
+web/dist/
+web/.next/
+web/out/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vs/
+.idea/
+*.user
+
+# Logs
+*.log
+.claude/hooks/.logs/

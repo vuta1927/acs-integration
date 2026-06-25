@@ -1,0 +1,58 @@
+services:
+
+  # ── Integration Broker (Web API + React SPA) ─────────────────────────────────
+  # Connects to Pro-Watch via SignalR, maps alarm events, forwards to RabbitMQ.
+  # UI + API available at http://<host>:5180  (single origin, no nginx)
+  broker:
+    image: vuta1927/prowatch-cctv-bridge:latest
+    ports:
+      - "5180:5180"
+    volumes:
+      - broker-data:/data      # SQLite DB + DataProtection key ring — persists across updates
+    environment:
+      # SQLite database and Data Protection key ring stored in the volume.
+      ConnectionStrings__Sqlite: "Data Source=/data/bridge.db"
+      DP_KEYS_PATH: "/data/keys"
+
+      # ── Applied on FIRST RUN only (when DB is empty) ─────────────────────
+      # After first run, config is managed via the UI at http://<host>:5180.
+      # Pro-Watch 6.0 Event Service = classic SignalR 2.2 on the SignalR port (8735).
+      # Auth on this channel = userName + workstation (no password); password is REST-only.
+      PROWATCH_BASEURL: "http://172.20.23.72:8735"
+      PROWATCH_USERNAME: "administrator"
+      PROWATCH_WRKST: "WIN-BRJKP4DBD66"
+
+      # ── RabbitMQ connection (applied on first run only) ───────────────────
+      RABBITMQ_HOST: "rabbitmq"
+      RABBITMQ_PORT: "5672"
+      RABBITMQ_USER: "bridge"
+      RABBITMQ_PASS: "bridge123"
+      RABBITMQ_USE_TLS: "false"
+      # Single routing key for ALL CCTV messages.
+      RABBITMQ_ROUTING_KEY: "cctv.sacs.queue"
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # ── RabbitMQ message broker ───────────────────────────────────────────────────
+  rabbitmq:
+    image: rabbitmq:4-management
+    ports:
+      - "5672:5672"    # AMQP
+      - "15672:15672"  # Management UI  (user: bridge / bridge123)
+    environment:
+      RABBITMQ_DEFAULT_USER: "bridge"
+      RABBITMQ_DEFAULT_PASS: "bridge123"
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  broker-data:    # SQLite DB + DataProtection keys — DO NOT delete when updating
+  rabbitmq-data:  # RabbitMQ mnesia database

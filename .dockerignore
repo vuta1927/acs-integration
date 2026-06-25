@@ -1,0 +1,19 @@
+# .NET build artifacts
+src/**/bin/
+src/**/obj/
+src/**/*.db
+src/**/*.db-shm
+src/**/*.db-wal
+src/**/.vs/
+src/**/bridge.db*
+
+# Node / React artifacts
+web/node_modules/
+web/dist/
+
+# Dev / tooling
+**/.git/
+**/.claude/
+plans/
+.env
+.env.*

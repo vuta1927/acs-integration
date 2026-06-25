@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ProWatchCctvBridge.Broker/ProWatchCctvBridge.Broker.csproj" />
+  <Project Path="ProWatchCctvBridge.Shared/ProWatchCctvBridge.Shared.csproj" />
+  <Project Path="ProWatchCctvBridge.Simulator/ProWatchCctvBridge.Simulator.csproj" />
+</Solution>

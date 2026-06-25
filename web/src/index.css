@@ -1,0 +1,74 @@
+/* Self-hosted fonts — place woff2 files under web/public/fonts/
+   Download from: https://github.com/mozilla/Fira (Fira Sans) and
+   https://github.com/tonsky/FiraCode (Fira Code) */
+@font-face { font-family: "Fira Sans"; src: url("/fonts/FiraSans-Regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Fira Sans"; src: url("/fonts/FiraSans-Medium.woff2") format("woff2"); font-weight: 500; font-display: swap; }
+@font-face { font-family: "Fira Sans"; src: url("/fonts/FiraSans-SemiBold.woff2") format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "Fira Sans"; src: url("/fonts/FiraSans-Bold.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "Fira Code"; src: url("/fonts/FiraCode-Regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Fira Code"; src: url("/fonts/FiraCode-Medium.woff2") format("woff2"); font-weight: 500; font-display: swap; }
+@font-face { font-family: "Fira Code"; src: url("/fonts/FiraCode-SemiBold.woff2") format("woff2"); font-weight: 600; font-display: swap; }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Control-room design tokens */
+:root {
+  /* surfaces */
+  --cr-bg: #0B1020; --cr-bg-deep: #060A16;
+  --cr-panel: #121A2E; --cr-panel-raised: #16203A;
+  --cr-border: #243049; --cr-border-subtle: #1B2540;
+  /* text */
+  --cr-text: #E8EDF7; --cr-text-muted: #94A3B8; --cr-text-dim: #64748B;
+  /* brand/info */
+  --cr-info: #3B82F6; --cr-info-hover: #60A5FA;
+  /* severity / status */
+  --cr-critical: #EF4444; --cr-critical-strong: #DC2626;
+  --cr-major: #F97316; --cr-minor: #EAB308; --cr-ok: #22C55E;
+  --cr-warn: #F59E0B; --cr-neutral: #64748B;
+  /* radius / borders / fonts */
+  --cr-radius-control: 8px; --cr-radius-card: 12px; --cr-border-w: 1px;
+  --cr-font-ui: "Fira Sans", system-ui, "Segoe UI", sans-serif;
+  --cr-font-mono: "Fira Code", ui-monospace, "Cascadia Code", monospace;
+  /* motion */
+  --cr-dur-fast: 150ms; --cr-dur: 220ms; --cr-dur-slow: 300ms;
+  --cr-ease: cubic-bezier(.2,.7,.3,1);
+
+  /* shadcn HSL-triple vars (v3 format) */
+  --background: 222 47% 8%;        --foreground: 222 50% 94%;
+  --card: 223 43% 13%;             --card-foreground: 222 50% 94%;
+  --popover: 222 42% 16%;          --popover-foreground: 222 50% 94%;
+  --primary: 217 91% 60%;          --primary-foreground: 222 47% 8%;
+  --secondary: 222 42% 16%;        --secondary-foreground: 222 50% 94%;
+  --muted: 222 42% 16%;            --muted-foreground: 215 20% 65%;
+  --accent: 222 42% 16%;           --accent-foreground: 222 50% 94%;
+  --destructive: 0 84% 60%;        --destructive-foreground: 222 47% 8%;
+  --border: 217 33% 22%;           --input: 217 33% 22%;
+  --ring: 217 91% 60%;
+  --radius: 0.5rem;
+}
+
+html, body {
+  background: var(--cr-bg);
+  color: var(--cr-text);
+  font-family: var(--cr-font-ui);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* Every numeric/data element uses tabular figures */
+.font-mono { font-variant-numeric: tabular-nums; }
+
+/* Reduced motion — gates all three allowed animations */
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; }
+  .cr-live-dot { animation: none !important; }
+  .cr-clock { animation: none !important; }
+}
+
+/* Scrollbar — dark theme */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--cr-bg-deep); }
+::-webkit-scrollbar-thumb { background: var(--cr-border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--cr-text-dim); }
