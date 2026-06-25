@@ -38,29 +38,6 @@ public sealed class ForwardedMessageRecord
     public DateTimeOffset ForwardedAt { get; set; }
 }
 
-/// <summary>A rule that maps a Pro-Watch alarm event to a CCTV alarm message. Evaluated in ascending <see cref="Order"/>.</summary>
-public sealed class MappingRuleRecord
-{
-    public int Id { get; set; }
-    public int Order { get; set; }
-    public string Name { get; set; } = default!;
-    public bool Enabled { get; set; } = true;
-
-    /// <summary>Match on EventType (null/empty = any).</summary>
-    public string? MatchEventType { get; set; }
-
-    /// <summary>Match on EventCode (null/empty = any).</summary>
-    public string? MatchEventCode { get; set; }
-
-    /// <summary>Comma-separated camera IP addresses sent to CCTV (e.g. "10.4.5.11,10.4.5.14"). Empty = CCTV resolves by locationId.</summary>
-    public string? CameraIps { get; set; }
-
-    /// <summary>CCTV severity level: 0=Critical, 1=Major, 2=Minor. Default 1=Major.</summary>
-    public int SeverityLevel { get; set; } = 1;
-
-    public string RoutingKey { get; set; } = "cctv.alarm";
-}
-
 /// <summary>Key/value store for persisted JSON configuration (prowatch, rabbitmq).</summary>
 public sealed class AppSetting
 {

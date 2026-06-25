@@ -10,7 +10,6 @@ const OperationsWall    = lazy(() => import('@/pages/operations-wall'))
 const EventLog          = lazy(() => import('@/pages/event-log'))
 const ForwardErrorLog   = lazy(() => import('@/pages/forward-error-log'))
 const ConsoleLog        = lazy(() => import('@/pages/console-log'))
-const RuleMatrix        = lazy(() => import('@/pages/rule-matrix'))
 const SystemSettings    = lazy(() => import('@/pages/system-settings'))
 
 function NotFound() {
@@ -41,7 +40,6 @@ export default function App() {
             <Route path="/history" element={<EventLog />} />
             <Route path="/errors"  element={<ForwardErrorLog />} />
             <Route path="/console" element={<ConsoleLog />} />
-            <Route path="/mapping" element={<RuleMatrix />} />
             <Route path="/config"  element={<SystemSettings />} />
             <Route path="*"        element={<NotFound />} />
           </Routes>

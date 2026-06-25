@@ -80,7 +80,6 @@ app.UseStaticFiles();
 
 // REST API endpoints.
 app.MapConfigEndpoints();
-app.MapMappingRulesEndpoints();
 app.MapEventsEndpoints();
 app.MapStatusEndpoints();
 app.MapProWatchEndpoints();

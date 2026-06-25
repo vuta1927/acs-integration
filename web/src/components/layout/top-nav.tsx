@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom'
 import { useQueryClient } from '@tanstack/react-query'
-import { LayoutDashboard, History, Sliders, Settings, AlertCircle, Terminal } from 'lucide-react'
+import { LayoutDashboard, History, Settings, AlertCircle, Terminal } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import type { BridgeStatusDto } from '@/lib/types'
 
@@ -45,11 +45,6 @@ export function TopNav() {
       <NavLink to="/console" className={navItemCls}>
         <Terminal size={14} strokeWidth={1.75} aria-hidden />
         Console
-      </NavLink>
-
-      <NavLink to="/mapping" className={navItemCls}>
-        <Sliders size={14} strokeWidth={1.75} aria-hidden />
-        Mapping
       </NavLink>
 
       <NavLink to="/config" className={navItemCls}>

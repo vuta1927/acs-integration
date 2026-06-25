@@ -1,6 +1,6 @@
 import type {
   ProWatchConfigDto, RabbitConfigDto, TestResultDto,
-  MappingRuleDto, ReceivedEventDto, ReceivedEventDetailDto,
+  ReceivedEventDto, ReceivedEventDetailDto,
   ForwardedMessageDto, PagedResult, BridgeStatusDto,
   ScenarioDto, ContractsDto, EventFilters, LogEntryDto,
 } from './types'
@@ -27,16 +27,6 @@ export const configApi = {
   putRabbit: (dto: RabbitConfigDto) =>
     request<void>('/api/config/rabbit', { method: 'PUT', body: JSON.stringify(dto) }),
   testRabbit: () => request<TestResultDto>('/api/config/rabbit/test', { method: 'POST' }),
-}
-
-// Mapping rules
-export const mappingApi = {
-  list: () => request<MappingRuleDto[]>('/api/mapping-rules'),
-  replaceAll: (rules: MappingRuleDto[]) =>
-    request<{ count: number }>('/api/mapping-rules', {
-      method: 'PUT',
-      body: JSON.stringify(rules),
-    }),
 }
 
 // Events

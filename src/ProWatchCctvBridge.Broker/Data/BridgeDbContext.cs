@@ -9,7 +9,6 @@ public sealed class BridgeDbContext : DbContext
 
     public DbSet<ReceivedEventRecord> ReceivedEvents => Set<ReceivedEventRecord>();
     public DbSet<ForwardedMessageRecord> ForwardedMessages => Set<ForwardedMessageRecord>();
-    public DbSet<MappingRuleRecord> MappingRules => Set<MappingRuleRecord>();
     public DbSet<AppSetting> AppSettings => Set<AppSetting>();
 
     protected override void OnModelCreating(ModelBuilder b)

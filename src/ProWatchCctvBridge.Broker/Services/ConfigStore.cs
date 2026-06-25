@@ -55,8 +55,6 @@ public sealed class ConfigStore
         await Upsert(db, ProWatchKey, _prowatch);
         await Upsert(db, RabbitKey, _rabbit);
         await db.SaveChangesAsync();
-
-        await MappingRuleSeeder.EnsureSeededAsync(db);
     }
 
     // PROWATCH_BASEURL — base URL of the Pro-Watch SignalR Event Service endpoint (e.g. http://host:8735).

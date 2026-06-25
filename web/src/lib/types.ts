@@ -1,8 +1,6 @@
 // DTO types mirroring the .NET backend — camelCase, hand-written (no codegen)
 // Timestamps are ISO-8601 UTC strings; never blind new Date() for display logic.
 
-export type Severity = 0 | 1 | 2  // 0=Critical, 1=Major, 2=Minor
-
 // --- Config ---
 export interface ProWatchConfigDto {
   baseUrl: string
@@ -39,19 +37,6 @@ export interface RabbitConfigDto {
 export interface TestResultDto {
   success: boolean
   error: string | null
-}
-
-// --- Mapping rules ---
-// routingKey removed: all CCTV messages use a single global routing key (RabbitMQ settings → Routing key).
-export interface MappingRuleDto {
-  id: number
-  order: number
-  name: string
-  enabled: boolean
-  matchEventType: string | null
-  matchEventCode: string | null
-  cameraIps: string | null
-  severityLevel: Severity
 }
 
 // --- Events ---

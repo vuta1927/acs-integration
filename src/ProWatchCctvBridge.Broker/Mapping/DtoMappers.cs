@@ -86,31 +86,6 @@ public static class DtoMappers
         DefaultRoutingKey = dto.DefaultRoutingKey,
     };
 
-    // ── Mapping rules ─────────────────────────────────────────────────────────
-
-    public static MappingRuleDto ToDto(MappingRuleRecord r) => new(
-        Id: r.Id,
-        Order: r.Order,
-        Name: r.Name,
-        Enabled: r.Enabled,
-        MatchEventType: r.MatchEventType,
-        MatchEventCode: r.MatchEventCode,
-        CameraIps: r.CameraIps,
-        SeverityLevel: r.SeverityLevel);
-
-    /// <summary>Id intentionally not set — replace-all lets EF Core auto-assign new PKs.
-    /// RoutingKey left at entity default (unused; routing is now global).</summary>
-    public static MappingRuleRecord FromDto(MappingRuleDto dto) => new()
-    {
-        Order = dto.Order,
-        Name = dto.Name,
-        Enabled = dto.Enabled,
-        MatchEventType = dto.MatchEventType,
-        MatchEventCode = dto.MatchEventCode,
-        CameraIps = dto.CameraIps,
-        SeverityLevel = dto.SeverityLevel,
-    };
-
     // ── Events ────────────────────────────────────────────────────────────────
 
     public static ReceivedEventDto ToDto(ReceivedEventRecord r) => new(
