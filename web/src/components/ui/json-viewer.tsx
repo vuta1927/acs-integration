@@ -41,7 +41,7 @@ export function JsonViewer({ value, className }: JsonViewerProps) {
   }
 
   return (
-    <div className={cn('relative rounded-control border border-cr-border bg-cr-bg-deep', className)}>
+    <div className={cn('relative overflow-hidden rounded-control border border-cr-border bg-cr-bg-deep', className)}>
       <button
         onClick={handleCopy}
         className="absolute right-2 top-2 flex items-center gap-1 rounded-control border border-cr-border bg-cr-panel px-2 py-1 text-2xs text-cr-muted transition-colors hover:text-cr-text"
@@ -51,7 +51,7 @@ export function JsonViewer({ value, className }: JsonViewerProps) {
         {copied ? 'Copied' : 'Copy'}
       </button>
       <pre
-        className="overflow-auto p-3 pt-8 font-mono text-2xs leading-relaxed"
+        className="max-h-[inherit] overflow-auto p-3 pt-8 font-mono text-2xs leading-relaxed"
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{ __html: highlight(formatted) }}
       />
