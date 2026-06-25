@@ -70,33 +70,21 @@ public sealed class EventPipeline
             return;
         }
 
-        var rules = await db.MappingRules.AsNoTracking().ToListAsync(ct);
-        var result = _mapper.Map(ev, rules);
-
-        if (!result.Matched || result.Command is null)
-        {
-            record.ForwardStatus = ForwardStatus.Skipped;
-            Interlocked.Increment(ref _status.TotalSkipped);
-            await db.SaveChangesAsync(ct);
-            _events.RaiseStatusChanged();
-            return;
-        }
+        var command = _mapper.Map(ev);
 
         var rabbit = _config.GetRabbit();
-        // All CCTV messages route to a single global routing key (DefaultRoutingKey, e.g. cctv.sacs.queue).
         var routingKey = rabbit.DefaultRoutingKey;
-        var publish = await _publisher.PublishAsync(result.Command, routingKey, ct);
+        var publish = await _publisher.PublishAsync(command, routingKey, ct);
 
         var forwarded = new ForwardedMessageRecord
         {
             SourceEventId = ev.EventId,
-            CommandId = result.Command.CommandId,
+            CommandId = command.CommandId,
             Exchange = rabbit.Exchange,
             RoutingKey = routingKey,
             Status = publish.Success ? ForwardStatus.Published : ForwardStatus.Failed,
             Error = publish.Error,
-            // PayloadJson is the exact wire payload (wire fields only; [JsonIgnore] tracking fields excluded).
-            PayloadJson = JsonSerializer.Serialize(result.Command),
+            PayloadJson = JsonSerializer.Serialize(command),
             ForwardedAt = DateTimeOffset.UtcNow,
         };
         db.ForwardedMessages.Add(forwarded);
