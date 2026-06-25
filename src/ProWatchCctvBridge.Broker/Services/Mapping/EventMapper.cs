@@ -33,9 +33,8 @@ public sealed class EventMapper
                 Code = ev.EventCode,
                 Timestamp = ev.EventDate.UtcDateTime.ToString("yyyy-MM-ddTHH:mm:ss.fffZ"),
                 CameraIps = cameraIps,
-                // ACS DeviceId maps to CCTV equipmentId (the physical device that triggered the event).
-                EquipmentId = ev.DeviceId,
-                // Per CCTV integration: locationId is the same value as equipmentId.
+                // ACS Location maps to CCTV equipmentId per CCTV integration contract.
+                EquipmentId = ev.Location,
                 LocationId = ev.DeviceId,
                 SeverityLevel = rule.SeverityLevel,
                 Message = ev.Message ?? PwEventCodes.Describe(ev.EventCode),

@@ -31,7 +31,7 @@ public sealed class CctvCommand
     [JsonPropertyName("cameraIps")]
     public List<string> CameraIps { get; set; } = [];
 
-    /// <summary>ACS device ID that triggered the event (Pro-Watch DeviceId).</summary>
+    /// <summary>Equipment ID as received by CCTV — mapped from Pro-Watch Location.</summary>
     [JsonPropertyName("equipmentId")]
     public string? EquipmentId { get; set; }
 
