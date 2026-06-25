@@ -51,7 +51,21 @@ public sealed class EventMapper
             };
         }
 
-        return MappingResult.NoMatch;
+        // No rule matched — build a default command so all alarm events are always forwarded.
+        var defaultCommand = new CctvCommand
+        {
+            Code = ev.EventCode,
+            Timestamp = ev.EventDate.UtcDateTime.ToString("yyyy-MM-ddTHH:mm:ss.fffZ"),
+            CameraIps = [],
+            EquipmentId = ev.Location,
+            LocationId = ev.DeviceId,
+            SeverityLevel = 1,
+            Message = ev.Message ?? PwEventCodes.Describe(ev.EventCode),
+            SourceEventId = ev.EventId,
+            SourceEventType = ev.EventType,
+            SourceEventCode = ev.EventCode,
+        };
+        return new MappingResult { Matched = true, Command = defaultCommand };
     }
 
     private static bool Matches(MappingRuleRecord rule, PwEvent ev)
