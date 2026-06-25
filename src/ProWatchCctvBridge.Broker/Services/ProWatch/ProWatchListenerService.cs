@@ -193,7 +193,7 @@ public sealed class ProWatchListenerService : IHostedService, IAsyncDisposable
     private static string HubUrl(ProWatchOptions opt) => $"{opt.BaseUrl.TrimEnd('/')}{opt.HubPath}";
 
     // Log the raw Pro-Watch event JSON (field names undocumented), then best-effort map to PwEvent.
-    // Newtonsoft binds case-insensitively, so any matching field names populate automatically.
+    // Newtonsoft binds case-insensitively for flat fields; nested ACS objects are patched manually below.
     // ACS does not send a plain EventType field; derive it from isAlarm if missing.
     private void DispatchRaw(JToken? raw, string source, bool isAlarm)
     {
@@ -210,6 +210,17 @@ public sealed class ProWatchListenerService : IHostedService, IAsyncDisposable
             ev.EventType = isAlarm ? "Alarm" : "Event";
 
         if (isAlarm) ev.IsAlarm = true;
+
+        // Patch nested ACS fields that ToObject<PwEvent> cannot reach via flat deserialization.
+        // Raw ACS uses nested objects (LogicalDevice, Badge) and different top-level names (HardwareID).
+        if (raw is JObject rawObj)
+        {
+            ev.Location ??= rawObj["LogicalDevice"]?["Location"]?.Value<string>();
+            ev.DoorId   ??= rawObj["LogicalDevice"]?["LogDevID"]?.Value<string>();
+            ev.DeviceId ??= rawObj["HardwareID"]?.Value<string>();
+            ev.BadgeId  ??= rawObj["Badge"]?["BadgeID"]?.Value<string>();
+        }
+
         Dispatch(ev);
     }
 
