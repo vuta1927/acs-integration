@@ -89,6 +89,7 @@ export interface ForwardedMessageDto {
   error: string | null
   payload: unknown  // JsonElement passthrough
   forwardedAt: string
+  processingMs: number
 }
 
 export interface PagedResult<T> {

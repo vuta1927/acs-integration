@@ -148,7 +148,8 @@ public static class DtoMappers
         Status: f.Status,
         Error: f.Error,
         Payload: ParseJson(f.PayloadJson),
-        ForwardedAt: f.ForwardedAt.ToString("O"));
+        ForwardedAt: f.ForwardedAt.ToString("O"),
+        ProcessingMs: f.ProcessingMs);
 
     // ── Status ────────────────────────────────────────────────────────────────
 

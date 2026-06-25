@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using System.Text.Json;
 using Microsoft.EntityFrameworkCore;
 using ProWatchCctvBridge.Broker.Data;
@@ -35,6 +36,7 @@ public sealed class EventPipeline
 
     public async Task HandleAsync(PwEvent ev, CancellationToken ct = default)
     {
+        var sw = Stopwatch.StartNew();
         Interlocked.Increment(ref _status.TotalReceived);
 
         await using var db = await _dbFactory.CreateDbContextAsync(ct);
@@ -75,6 +77,7 @@ public sealed class EventPipeline
         var rabbit = _config.GetRabbit();
         var routingKey = rabbit.DefaultRoutingKey;
         var publish = await _publisher.PublishAsync(command, routingKey, ct);
+        sw.Stop();
 
         var forwarded = new ForwardedMessageRecord
         {
@@ -86,6 +89,7 @@ public sealed class EventPipeline
             Error = publish.Error,
             PayloadJson = JsonSerializer.Serialize(command),
             ForwardedAt = DateTimeOffset.UtcNow,
+            ProcessingMs = sw.ElapsedMilliseconds,
         };
         db.ForwardedMessages.Add(forwarded);
         record.ForwardStatus = forwarded.Status;

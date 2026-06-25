@@ -63,7 +63,8 @@ public record ForwardedMessageDto(
     string Status,
     string? Error,
     JsonElement Payload,
-    string ForwardedAt);
+    string ForwardedAt,
+    long ProcessingMs);
 
 public record PagedResult<T>(
     IReadOnlyList<T> Items,

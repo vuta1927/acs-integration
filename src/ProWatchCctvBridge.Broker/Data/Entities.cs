@@ -36,6 +36,8 @@ public sealed class ForwardedMessageRecord
     /// <summary>The exact JSON payload sent over the wire to CCTV.</summary>
     public string PayloadJson { get; set; } = "{}";
     public DateTimeOffset ForwardedAt { get; set; }
+    /// <summary>Total processing time in milliseconds from ReceivedAt to RabbitMQ publish completion.</summary>
+    public long ProcessingMs { get; set; }
 }
 
 /// <summary>Key/value store for persisted JSON configuration (prowatch, rabbitmq).</summary>

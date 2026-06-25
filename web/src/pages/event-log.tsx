@@ -181,6 +181,9 @@ function DetailSheet({
               <p className="font-mono text-2xs text-cr-muted">
                 {f.exchange} / <span className="text-cr-info">{f.routingKey}</span>
               </p>
+              <p className="font-mono text-2xs text-cr-muted">
+                Processing: <span className="text-cr-text">{f.processingMs} ms</span>
+              </p>
               {f.error && <p className="font-mono text-2xs text-cr-critical">{f.error}</p>}
               <JsonViewer value={f.payload} className="max-h-32" />
             </div>

@@ -39,6 +39,7 @@ public sealed class ConfigStore
     {
         await using var db = await _dbFactory.CreateDbContextAsync();
         await db.Database.EnsureCreatedAsync();
+        await ApplySchemaUpdatesAsync(db);
 
         // Track whether rows already exist so env overrides only apply on first run.
         bool pwExists = await db.AppSettings.FindAsync(ProWatchKey) is not null;
@@ -160,4 +161,12 @@ public sealed class ConfigStore
     }
 
     private static T Copy<T>(T source) => JsonSerializer.Deserialize<T>(JsonSerializer.Serialize(source))!;
+
+    /// <summary>Add new columns to existing SQLite tables that EnsureCreated won't patch.</summary>
+    private static async Task ApplySchemaUpdatesAsync(BridgeDbContext db)
+    {
+        await db.Database.ExecuteSqlRawAsync(
+            "ALTER TABLE ForwardedMessages ADD COLUMN ProcessingMs INTEGER NOT NULL DEFAULT 0"
+        ).ContinueWith(_ => { }); // ignore error if column already exists
+    }
 }
